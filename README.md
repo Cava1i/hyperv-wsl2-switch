@@ -1,5 +1,9 @@
 # WSL2 <-> VMware 嵌套虚拟化一键切换工具
 
+<p align="center">
+  <img src="assets/switch-decoration.svg" alt="" width="760">
+</p>
+
 用于在两种 Windows 启动模式之间切换：
 
 - WSL2 模式：启用 WSL2 所需的 WSL、Virtual Machine Platform，并设置 `hypervisorlaunchtype=auto`。
